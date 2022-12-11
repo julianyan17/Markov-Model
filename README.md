@@ -17,7 +17,7 @@ Contents:
     * String toString()
 
 * WordCount.java
-  * This class creates an WordCount object that stores a String from the text and int that is the number of occurences.
+  * This file includes a class that creates an WordCount object that stores a String from the text and int that is the number of occurences.
     * WordCount(String w)
     * String getWord()
     * int getCount()
@@ -33,6 +33,6 @@ Contents:
     * String toString()
 
 * Generator.java
-  * This class contains a main method that constructs, trains, and uses a Markov model.
+  * This file includes a class that contains a main method that constructs, trains, and uses a Markov model.
   
 
